@@ -1,11 +1,12 @@
 body {
-  color: rgb(13, 13, 13);
+  color: rgb(232, 9, 9);
 }
 .hero {
   background-image: url("../BirdNotReal.jpeg");
+  width: 1200px;
 }
 
 h1 {
-  color: rgb(34, 33, 33);
+  color: rgb(196, 22, 22);
   font-family: monospace;
 }
